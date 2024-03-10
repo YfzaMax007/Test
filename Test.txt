@@ -1,4 +1,1 @@
 print("Hello World!")
-X = 9
-while True:
-	print(x)
